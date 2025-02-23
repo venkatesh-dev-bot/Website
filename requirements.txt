@@ -1,0 +1,13 @@
+fastapi==0.115.8
+uvicorn==0.34.0
+langchain-core==0.3.37
+langgraph==0.2.74
+langchain==0.3.19
+langchain-community==0.3.18
+langchain_openai==0.3.6
+langchain_google_genai==2.0.10
+langchain_mistralai==0.2.7
+python-dotenv 
+faiss-cpu 
+PyPDF2
+pypdf
